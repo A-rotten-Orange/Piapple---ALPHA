@@ -1,0 +1,4 @@
+Piapple is a wireless penetration testing tool
+for use in authorized security audits where permitted.
+Check laws and obtain client permission before using.
+Hackapi.org, Harry sharrock, Liam Whitehurst claim no responsibility for unauthorized use. 
